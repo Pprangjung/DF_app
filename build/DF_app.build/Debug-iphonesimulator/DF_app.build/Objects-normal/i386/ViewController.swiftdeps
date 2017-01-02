@@ -1,0 +1,336 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C6DF_app14ViewController"
+provides-member:
+- ["C6DF_app14ViewController", ""]
+provides-dynamic-lookup:
+- "handleLogout"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "UIBarButtonItem"
+- "UITableViewController"
+- "ViewController"
+- !private "BooleanLiteralType"
+- !private "StringLiteralType"
+- !private "LoginController"
+depends-member:
+- !private ["Ps9AnyObject", "LoginController"]
+- !private ["Ps9AnyObject", "UIBarButtonItem"]
+- ["Ps9AnyObject", "handleLogout"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "leftBarButtonItem"]
+- !private ["Ps9AnyObject", "navigationItem"]
+- !private ["Ps9AnyObject", "present"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "LoginController"]
+- !private ["Ps7CVarArg", "UIBarButtonItem"]
+- ["Ps7CVarArg", "handleLogout"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "leftBarButtonItem"]
+- !private ["Ps7CVarArg", "navigationItem"]
+- !private ["Ps7CVarArg", "present"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "LoginController"]
+- !private ["Ps28CustomDebugStringConvertible", "UIBarButtonItem"]
+- ["Ps28CustomDebugStringConvertible", "handleLogout"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "leftBarButtonItem"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationItem"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "LoginController"]
+- !private ["Ps23CustomStringConvertible", "UIBarButtonItem"]
+- ["Ps23CustomStringConvertible", "handleLogout"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "leftBarButtonItem"]
+- !private ["Ps23CustomStringConvertible", "navigationItem"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "LoginController"]
+- !private ["Ps9Equatable", "UIBarButtonItem"]
+- ["Ps9Equatable", "handleLogout"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "leftBarButtonItem"]
+- !private ["Ps9Equatable", "navigationItem"]
+- !private ["Ps9Equatable", "plain"]
+- !private ["Ps9Equatable", "present"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "LoginController"]
+- !private ["Ps8Hashable", "UIBarButtonItem"]
+- ["Ps8Hashable", "handleLogout"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "leftBarButtonItem"]
+- !private ["Ps8Hashable", "navigationItem"]
+- !private ["Ps8Hashable", "plain"]
+- !private ["Ps8Hashable", "present"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["C6DF_app15LoginController", "deinit"]
+- !private ["C6DF_app15LoginController", "init"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "LoginController"]
+- !private ["PSo8NSCoding", "UIBarButtonItem"]
+- ["PSo8NSCoding", "handleLogout"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "leftBarButtonItem"]
+- !private ["PSo8NSCoding", "navigationItem"]
+- !private ["PSo8NSCoding", "present"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "LoginController"]
+- !private ["PSo26NSExtensionRequestHandling", "UIBarButtonItem"]
+- ["PSo26NSExtensionRequestHandling", "handleLogout"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationItem"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "LoginController"]
+- !private ["CSo8NSObject", "UIBarButtonItem"]
+- ["CSo8NSObject", "handleLogout"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "leftBarButtonItem"]
+- !private ["CSo8NSObject", "navigationItem"]
+- !private ["CSo8NSObject", "present"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "LoginController"]
+- !private ["PSo16NSObjectProtocol", "UIBarButtonItem"]
+- ["PSo16NSObjectProtocol", "handleLogout"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "leftBarButtonItem"]
+- !private ["PSo16NSObjectProtocol", "navigationItem"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "plain"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo21UIAppearanceContainer", "LoginController"]
+- !private ["PSo21UIAppearanceContainer", "UIBarButtonItem"]
+- ["PSo21UIAppearanceContainer", "handleLogout"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "navigationItem"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo15UIBarButtonItem", "deinit"]
+- !private ["CSo15UIBarButtonItem", "init"]
+- ["OSC20UIBarButtonItemStyle", "deinit"]
+- !private ["OSC20UIBarButtonItemStyle", "plain"]
+- !private ["CSo9UIBarItem", "init"]
+- !private ["PSo18UIContentContainer", "LoginController"]
+- !private ["PSo18UIContentContainer", "UIBarButtonItem"]
+- ["PSo18UIContentContainer", "handleLogout"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "navigationItem"]
+- !private ["PSo18UIContentContainer", "present"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "LoginController"]
+- !private ["PSo18UIFocusEnvironment", "UIBarButtonItem"]
+- ["PSo18UIFocusEnvironment", "handleLogout"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "navigationItem"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo16UINavigationItem", "deinit"]
+- !private ["CSo16UINavigationItem", "leftBarButtonItem"]
+- !private ["CSo11UIResponder", "LoginController"]
+- !private ["CSo11UIResponder", "UIBarButtonItem"]
+- ["CSo11UIResponder", "handleLogout"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "navigationItem"]
+- !private ["CSo11UIResponder", "present"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "LoginController"]
+- !private ["PSo30UIResponderStandardEditActions", "UIBarButtonItem"]
+- ["PSo30UIResponderStandardEditActions", "handleLogout"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationItem"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo20UIScrollViewDelegate", "LoginController"]
+- !private ["PSo20UIScrollViewDelegate", "UIBarButtonItem"]
+- ["PSo20UIScrollViewDelegate", "handleLogout"]
+- !private ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "navigationItem"]
+- !private ["PSo20UIScrollViewDelegate", "present"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "LoginController"]
+- !private ["PSo16UIStateRestoring", "UIBarButtonItem"]
+- ["PSo16UIStateRestoring", "handleLogout"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "navigationItem"]
+- !private ["PSo16UIStateRestoring", "present"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo21UITableViewController", "LoginController"]
+- !private ["CSo21UITableViewController", "UIBarButtonItem"]
+- ["CSo21UITableViewController", "deinit"]
+- ["CSo21UITableViewController", "handleLogout"]
+- ["CSo21UITableViewController", "init"]
+- !private ["CSo21UITableViewController", "navigationItem"]
+- !private ["CSo21UITableViewController", "present"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "LoginController"]
+- !private ["PSo21UITableViewDataSource", "UIBarButtonItem"]
+- ["PSo21UITableViewDataSource", "handleLogout"]
+- !private ["PSo21UITableViewDataSource", "init"]
+- !private ["PSo21UITableViewDataSource", "navigationItem"]
+- !private ["PSo21UITableViewDataSource", "present"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "LoginController"]
+- !private ["PSo19UITableViewDelegate", "UIBarButtonItem"]
+- ["PSo19UITableViewDelegate", "handleLogout"]
+- !private ["PSo19UITableViewDelegate", "init"]
+- !private ["PSo19UITableViewDelegate", "navigationItem"]
+- !private ["PSo19UITableViewDelegate", "present"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- ["OSC16UITableViewStyle", "deinit"]
+- !private ["PSo18UITraitEnvironment", "LoginController"]
+- !private ["PSo18UITraitEnvironment", "UIBarButtonItem"]
+- ["PSo18UITraitEnvironment", "handleLogout"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "navigationItem"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "LoginController"]
+- !private ["CSo16UIViewController", "UIBarButtonItem"]
+- ["CSo16UIViewController", "handleLogout"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "navigationItem"]
+- !private ["CSo16UIViewController", "present"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["C6DF_app14ViewController", "LoginController"]
+- !private ["C6DF_app14ViewController", "UIBarButtonItem"]
+- ["C6DF_app14ViewController", "deinit"]
+- ["C6DF_app14ViewController", "handleLogout"]
+- ["C6DF_app14ViewController", "init"]
+- !private ["C6DF_app14ViewController", "navigationItem"]
+- !private ["C6DF_app14ViewController", "present"]
+- ["C6DF_app14ViewController", "viewDidLoad"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "LoginController"]
+- !private ["Ps9_Hashable", "UIBarButtonItem"]
+- ["Ps9_Hashable", "handleLogout"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "leftBarButtonItem"]
+- !private ["Ps9_Hashable", "navigationItem"]
+- !private ["Ps9_Hashable", "plain"]
+- !private ["Ps9_Hashable", "present"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "C6DF_app15LoginController"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "V10ObjectiveC8Selector"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo15UIBarButtonItem"
+- "OSC20UIBarButtonItemStyle"
+- !private "CSo9UIBarItem"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo16UINavigationItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "OSC16UITableViewStyle"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C6DF_app14ViewController"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Users/prang/Desktop/DF_app/Pods/Firebase/Headers/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+interface-hash: "6a9cc0e1057e82433954a596c4a2210a"

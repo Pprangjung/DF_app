@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>366208220736-v08i7n1oau4rcqqsnp0oovarui8oh0d1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.366208220736-v08i7n1oau4rcqqsnp0oovarui8oh0d1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDi3TazGHA-SFHmKfREP45giOIZOLaxBc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>366208220736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Prang.DF-app</string>
+	<key>PROJECT_ID</key>
+	<string>dontforget-a6f7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dontforget-a6f7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:366208220736:ios:9d9602e5aed26efc</string>
+	<key>DATABASE_URL</key>
+	<string>https://dontforget-a6f7a.firebaseio.com</string>
+</dict>
+</plist>

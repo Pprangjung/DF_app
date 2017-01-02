@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "ea9b314a2665b3659043d32ff8f8c823"
+build_time: [534996474, 970544000]
+inputs:
+  "/Users/prang/Desktop/DF_app/DF_app/ViewController.swift": [534937901, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/LoginController.swift": [534981840, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/AppDelegate.swift": [532753250, 0]

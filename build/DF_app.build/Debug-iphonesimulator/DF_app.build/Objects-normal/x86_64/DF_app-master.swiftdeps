@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f77a0a6b9e41dbc3dd2c472355e27a32"
+build_time: [535515053, 77007000]
+inputs:
+  "/Users/prang/Desktop/DF_app/DF_app/loginPlusHandle.swift": [535515052, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/ViewController.swift": [535242849, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/LogChangePController.swift": [535269205, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/LoginController.swift": [535515052, 0]
+  "/Users/prang/Desktop/DF_app/DF_app/AppDelegate.swift": [534996977, 0]

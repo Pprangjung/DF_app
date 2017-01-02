@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/prang/Desktop/DF_app/build/Debug-iphonesimulator/Pods_DF_app.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-DF_app-umbrella.h",
+          'external-contents': "/Users/prang/Desktop/DF_app/Pods/Target Support Files/Pods-DF_app/Pods-DF_app-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_DF_app-Swift.h",
+          'external-contents': "/Users/prang/Desktop/DF_app/build/Debug-iphonesimulator/Pods_DF_app.framework/Headers/Pods_DF_app-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/prang/Desktop/DF_app/build/Debug-iphonesimulator/Pods_DF_app.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/prang/Desktop/DF_app/build/Pods.build/Debug-iphonesimulator/Pods-DF_app.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
